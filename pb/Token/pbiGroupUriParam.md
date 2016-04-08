@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink"><table><tr><td><b>Name</b></td><td><b>Description</b></td><td><b>Data Type</b></td></tr><tr><td>group_id</td><td>Guid of the <b>Group</b> to use. You can get the group id from the <b>Get Groups</b> operation.</td><td>String</td></tr></table></Token>
